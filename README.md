@@ -1,16 +1,57 @@
-## Hi there 👋
+## 👋 Hey, I'm eudach
 
+💻 **Developer in progress, builder by obsession.**
 
-**eudach/eudach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy enfocado en mi proyecto principal:
 
-Here are some ideas to get you started:
+### 🚀 KitsuneLauncher
+> Un launcher de Minecraft personalizado, no-premium, hecho desde cero en Python.  
+Incluye gestión de versiones, instalación, ejecución, configuración avanzada y más.  
+Este es mi proyecto activo y donde concentro la mayor parte de mi aprendizaje y desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🧠 Sobre mí
+
+Me gusta construir cosas que realmente funcionen, optimizar código y entender cómo funcionan las herramientas por dentro.  
+No soy fan de las soluciones "black box"... prefiero romperlas y rehacerlas mejor.
+
+---
+
+## ⚙️ Lenguajes que domino
+
+- 🐍 **Python** → mi lenguaje principal (apps, launchers, lógica, automatización)
+- 🌐 **JavaScript** → web y lógica interactiva
+- ☕ **Java** → especialmente enfocado en Minecraft
+- 🧩 Siempre aprendiendo algo nuevo...
+
+---
+
+## 🎯 En qué me especializo
+
+- 🛠️ Desarrollo de **launchers y herramientas personalizadas**
+- ⚡ **Optimización de rendimiento** en aplicaciones
+- 🧵 Manejo de **hilos y procesos** (threading / async)
+- 🎮 Integración con **Minecraft (mods, versiones, ejecución)**
+- 🧱 Estructuración de proyectos grandes y escalables
+
+---
+
+## 🔥 Actualmente
+
+- Mejorando **KitsuneLauncher**
+- Experimentando con nuevas arquitecturas
+- Haciendo código más rápido, limpio y eficiente
+
+---
+
+## 📫 Contacto
+
+discord: eudach
+
+---
+
+## ⚡ Fun fact
+
+A veces paso más tiempo optimizando algo que ya funciona…  
+solo porque sé que puede ir más rápido.
