@@ -1,57 +1,79 @@
-## 👋 Hey, I'm eudach
+<h1 align="center">👋 Hey, I'm eudach</h1>
+<p align="center">
+  💻 Developer | ⚡ Builder | 🎮 Minecraft Enthusiast
+</p>
 
-💻 **Developer in progress, builder by obsession.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Java-Advanced-red?style=for-the-badge&logo=java">
+</p>
 
-Actualmente estoy enfocado en mi proyecto principal:
+---
 
-### 🚀 KitsuneLauncher
-> Un launcher de Minecraft personalizado, no-premium, hecho desde cero en Python.  
-Incluye gestión de versiones, instalación, ejecución, configuración avanzada y más.  
-Este es mi proyecto activo y donde concentro la mayor parte de mi aprendizaje y desarrollo.
+## 🚀 Proyecto actual
+
+### 🦊 KitsuneLauncher
+> Launcher de Minecraft personalizado, no-premium, desarrollado desde cero en Python.
+
+✨ Mi proyecto principal actualmente, donde enfoco todo mi aprendizaje y desarrollo.
+
+🔧 Incluye:
+- Gestión de versiones de Minecraft
+- Instalación y ejecución automatizada
+- Configuración avanzada
+- Optimización de rendimiento
+- Integración con herramientas externas
 
 ---
 
 ## 🧠 Sobre mí
 
-Me gusta construir cosas que realmente funcionen, optimizar código y entender cómo funcionan las herramientas por dentro.  
-No soy fan de las soluciones "black box"... prefiero romperlas y rehacerlas mejor.
+Me gusta construir sistemas reales, optimizar cada detalle y entender cómo funcionan las cosas internamente.  
+Prefiero crear mis propias soluciones antes que depender de herramientas externas.
 
 ---
 
-## ⚙️ Lenguajes que domino
+## ⚙️ Tech Stack
 
-- 🐍 **Python** → mi lenguaje principal (apps, launchers, lógica, automatización)
-- 🌐 **JavaScript** → web y lógica interactiva
-- ☕ **Java** → especialmente enfocado en Minecraft
-- 🧩 Siempre aprendiendo algo nuevo...
+### Lenguajes
+- 🐍 Python (principal)
+- 🌐 JavaScript
+- ☕ Java
+
+### En lo que me especializo
+- 🛠️ Desarrollo de herramientas personalizadas
+- ⚡ Optimización de rendimiento
+- 🧵 Threading & Async
+- 🎮 Ecosistema Minecraft (launchers, mods, ejecución)
+- 🧱 Arquitectura y organización de proyectos
 
 ---
 
-## 🎯 En qué me especializo
+## 📊 Stats
 
-- 🛠️ Desarrollo de **launchers y herramientas personalizadas**
-- ⚡ **Optimización de rendimiento** en aplicaciones
-- 🧵 Manejo de **hilos y procesos** (threading / async)
-- 🎮 Integración con **Minecraft (mods, versiones, ejecución)**
-- 🧱 Estructuración de proyectos grandes y escalables
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eudach&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudach&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
 ## 🔥 Actualmente
 
 - Mejorando **KitsuneLauncher**
-- Experimentando con nuevas arquitecturas
-- Haciendo código más rápido, limpio y eficiente
+- Optimizando rendimiento al máximo
+- Experimentando con nuevas estructuras de código
 
 ---
 
 ## 📫 Contacto
 
-discord: eudach
+- Discord: (ponlo aquí)
+- Email: (opcional)
 
 ---
 
 ## ⚡ Fun fact
 
-A veces paso más tiempo optimizando algo que ya funciona…  
-solo porque sé que puede ir más rápido.
+> Si algo funciona… probablemente puedo hacerlo más rápido.
